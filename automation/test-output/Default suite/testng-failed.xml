@@ -8,6 +8,8 @@
           <include name="cleanup"/>
           <include name="fasdasd"/>
           <include name="setup"/>
+          <include name="searchBlouseProduct1"/>
+          <include name="searchBlouseProduct"/>
         </methods>
       </class> <!-- test.login -->
     </classes>
