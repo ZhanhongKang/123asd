@@ -16,7 +16,7 @@ public abstract class TestBase {
 
 	@BeforeMethod
 	public void setup() {
-		baseUrl = "http://automationpractice.com/index.php";
+		baseUrl = "https://ampeg.com/index.html";
 		System.setProperty("webdriver.chrome.driver", ".\\src\\test\\resources\\chromedrivers.exe");
 		driver = new ChromeDriver();
 
